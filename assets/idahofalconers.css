@@ -1,0 +1,90 @@
+body {
+	font-family: 'Catamaran', sans-serif;
+	font-size: 20px;
+	background: #d0c6ba;
+}
+
+#mainNavbar {
+	background: #565a63;
+}
+
+.navbar-brand {
+	font-size: 1.5rem;
+	font-weight: 700;
+}
+
+.navbar-nav {
+	font-size: 1rem;
+	font-weight: 400;
+}
+
+.navimg {
+	width: 50px;
+}
+
+.row {
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+ol {
+	max-height: 400px;
+	max-width: auto;
+}
+
+h1 {
+	font-weight: 800;
+	margin-bottom: 20px;
+}
+
+#logo {
+	max-width: 350px;
+}
+
+.carousel {
+	justify-content: center;
+}
+
+.d-block {
+	max-height: 600px;
+	height: auto;
+	width: auto;
+}
+
+.paragraph {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.title {
+	font-weight: 600;
+	font-size: 1.25em;
+	margin-top: 30px;
+}
+
+.docs {
+	text-align: center;
+}
+
+.card-title {
+	font-weight: 600;
+}
+
+.vendor {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.subheading {
+	margin-bottom: 20px;
+}
+
+section {
+	margin-top: 70px;
+}

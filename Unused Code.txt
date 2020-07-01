@@ -1,0 +1,68 @@
+			Paul Mascuch, Treasurer, IFA <br>
+			29886 Tudie Lane <br>
+			Parma, ID 83660
+
+----------------------------------------
+
+
+		  <div class="facebook align-content-right">
+			<a target="_blank" title="follow me on facebook" href="https://www.facebook.com/groups/400661976722391"><img alt="follow me on facebook" src="https://c866088.ssl.cf3.rackcdn.com/assets/facebook30x30.png" border=0></a>
+		</div>
+
+-----------------------------------------
+
+	<div class="info">
+			<h1><strong>Idaho<br>Falconers<br>Association</strong></h1>
+			<P>Representing Idaho Falconers Since 1978</P>
+	</div>
+
+	<div class="logo">
+		<img src="https://i.imgur.com/JRhm85J.png">
+	</div>
+------------------------------------------
+	<div class="col-sm-6">
+    	<div class="card">
+    		<div class="card-body">
+    			<img src="https://i.imgur.com/JRhm85J.png">
+    		</div>
+    	</div>
+	</div>
+-----------------------------------------
+<div class="row">
+	<div class="col-sm-6">
+    	<div class="card">
+    		<div class="card-body">
+    			<h5 class="card-title">Idaho<br>Falconers<br>Association</h5>
+    			<p class="card-text">Representing Idaho Falconers Since 1978.</p>
+    		</div>
+    	</div>
+	</div>
+</div>
+---------------------------------------------
+<div class="card" class="title" class="container" style="width: 18rem;">
+ 	<div class="card-body">
+		<h1 class="card-title">Idaho<br>Falconers<br>Association</h1>
+		<h3 class="card-subtitle mb-2 text-muted">Card subtitle</h3>
+    </div>
+</div>
+
+<div class="card" class="logo" class="container" style="width: 18rem;">
+	<img src="https://i.imgur.com/JRhm85J.png" class="card-img-top">
+</div>
+-----------------------------------------------------
+	<div class="container">
+			<div class="row">
+				<div class="col-md-4 col-xs-6" class="info">
+					<div>
+						<h1>Idaho<br>Falconers<br>Association</h1>
+						<h3>Representing Idaho Falconers Since 1978</h3>
+					</div>
+				</div>
+				<div class="col-md-4 col-xs-6" class="logo">
+					<div class="row">
+						<img src="https://i.imgur.com/JRhm85J.png">
+					</div>
+				</div>
+			</div>
+	</div>
+----------------------------------------
